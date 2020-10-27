@@ -13,8 +13,6 @@ Live Demo: [Сайт визитка FastStart](https://nrsimkha.github.io/).
 * Плавная css анимация
 * Формы обратной связи
 
-***
-
 ## Технологии: ##
 
 * Технологии: HTML, CSS, Jquery.
