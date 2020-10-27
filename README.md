@@ -1,5 +1,27 @@
-# nrsimkha.github.io
-Сайт FastStart
----
-permalink: /index.html
----
+# Сайт визитка компании по разработке сайтов #
+
+[![npm](https://img.shields.io/badge/demo-online-brightgreen.svg)](nrsimkha.github.io)<br>
+
+Пример сайта визитки, содержащем основную информацию о компании/продукте.
+
+Live Demo: [Сайт визитка FastStart](nrsimkha.github.io).
+
+
+## Характеристики сайта: ##
+
+* Адаптивная верстка
+* Плавная css анимация
+* Формы обратной связи
+
+***
+
+## Технологии: ##
+
+* Технологии: HTML, CSS, Jquery.
+
+
+#### Планируется ####
+
+* Backend на Node JS для сохранения данных, введеннных пользователем
+
+

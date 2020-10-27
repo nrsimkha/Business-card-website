@@ -1,11 +1,13 @@
 @mixin adaptive($screen_type) {
     @media(min-width: 850px){@content;}
 }
+
 *{
     
     font-family: "Open Sans", "Serif";
     margin: 0;
 }
+
 body, html{
     height: 100%;
 }
@@ -33,33 +35,6 @@ body, html{
     color: #777;
 }
 
-// .parallax {
-//     perspective: 300px;
-//     height: 100vh;
-//     overflow-x: hidden;
-//     overflow-y: auto;
-//   }
-//   .parallax__group {
-//     position: relative;
-//     height: 100vh;
-//     transform-style: preserve-3d;
-//   }
-//   .parallax__layer {
-//     position: absolute;
-//     top: 0;
-//     right: 0;
-//     bottom: 0;
-//     left: 0;
-//   }
-  
-//   .parallax__layer--base {
-//     transform: translateZ(0);
-//   }
-  
-//   .parallax__layer--back {
-//     transform: translateZ(-300px) scale(2);
-//     // transform: translateZ(10px) scale(0.7);
-//   }
 .background_overlay{
     
     width: 100%;
