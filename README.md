@@ -1,10 +1,10 @@
 # Сайт визитка компании по разработке сайтов #
 
-[![npm](https://img.shields.io/badge/demo-online-brightgreen.svg)](nrsimkha.github.io)<br>
+[![npm](https://img.shields.io/badge/demo-online-brightgreen.svg)](https://nrsimkha.github.io/)<br>
 
 Пример сайта визитки, содержащем основную информацию о компании/продукте.
 
-Live Demo: [Сайт визитка FastStart](nrsimkha.github.io).
+Live Demo: [Сайт визитка FastStart](https://nrsimkha.github.io/).
 
 
 ## Характеристики сайта: ##
